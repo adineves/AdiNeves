@@ -1,6 +1,4 @@
-### Olá, eu sou Adler Neves. 👋
-
-🔭 Trabalho com Design Grafico 🌱 Estou estudando Desenvolvimento Mobile 😄 Pronouns: ele/dele
+### Olá, eu sou Adler Neves.
 
 <div align="center">
   <a href="https://github.com/adineves">
