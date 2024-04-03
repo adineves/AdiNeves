@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python e JavaScript.**
+  🦄 Linguagens: HTML e CSS, BootStrap, Python e Pandas.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VSCode, Power BI e SQL server.**
+  💼 Ferramentas: VSCode, Power BI e SQL server.
 </p>
 
 <p align="left">
