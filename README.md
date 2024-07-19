@@ -3,11 +3,11 @@
 <p align="left"> 
   Me chamo <strong>Adler Neves<strong>, tenho 25 anos.<br>
   Estou terminando curso de Analise e Desenvolvimento de Sistemas, a procura de uma oportunidade na area de: <br>
-  Analise de Dados e Automação.
+  Desenvolvimento front-end.
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML e CSS, BootStrap, Python e Pandas.
+  🦄 Linguagens: HTML e CSS, JavaScript e Python.
 </p>
 
 <p align="left">
