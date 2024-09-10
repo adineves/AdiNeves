@@ -11,10 +11,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCode, Power BI e SQL server.
-</p>
-
-<p align="left">
   💌 Contato: Meus links de contato estão abaixo :) ⤵️
 </p>
 
