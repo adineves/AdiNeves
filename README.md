@@ -1,22 +1,32 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Me chamo <strong>Adler Neves<strong>, tenho 25 anos.<br>
-  Estou cursando Analise e Desenvolvimento de Sistemas, a procura de uma oportunidade na area de: <br>
-  Desenvolvimento front-end.
+<p align="left">  👋 Oi, eu sou o Adler Neves
+  Desenvolvedor focado em Python e Web.  
+  Crio sistemas simples e automações para ajudar empresas a economizar tempo e vender mais.
 </p>
 
-<p align="left">
-  🦄 Linguagens: HTML e CSS, JavaScript e Python.
+<p align="left">  🛠️ Tecnologias
+  - Python
+  - Flask
+  - HTML, CSS, JavaScript
+  - Automação de processos
+  - Bots
 </p>
 
-<p align="left">
-  💌 Contato: Meus links de contato estão abaixo :) ⤵️
+<p align="left">  🚀 O que eu faço
+  - Sistemas de organização
+  - Automação de WhatsApp
+  - Painéis administrativos
+  - Sites simples
 </p>
 
+<p align="left">  📂 Projetos em destaque
+  Confira abaixo meus projetos fixados 👇
+</p>
+
+<p align="left"> 📬 Contato abaixo se quiser automatizar seu negócio: </p>
+
 <p align="left">
-  <a href="adlerneves07@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/adler-neves-aa991a181/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511957767799" title="WhatsApp">
