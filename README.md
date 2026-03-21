@@ -1,36 +1,91 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">  👋 Oi, eu sou o Adler Neves
-  Desenvolvedor focado em Python e Web.  
-  Crio sistemas simples e automações para ajudar empresas a economizar tempo e vender mais.
-</p>
+# 👋 Adler Neves
 
-<p align="left">  🛠️ Tecnologias
-  - Python
-  - Flask
-  - HTML, CSS, JavaScript
-  - Automação de processos
-  - Bots
-</p>
+Desenvolvedor focado em **sistemas web, automação e soluções digitais para empresas**.  
+Crio projetos com foco em **resultado real**, ajudando negócios a crescer, organizar processos e aumentar conversão.
 
-<p align="left">  🚀 O que eu faço
-  - Sistemas de organização
-  - Automação de WhatsApp
-  - Painéis administrativos
-  - Sites simples
-</p>
+---
 
-<p align="left">  📂 Projetos em destaque
-  Confira abaixo meus projetos fixados 👇
-</p>
+## 🧠 Sobre mim
 
-<p align="left"> 📬 Contato abaixo se quiser automatizar seu negócio: </p>
+- 💻 Desenvolvedor web e de automações  
+- 🚀 Foco em projetos práticos e que geram valor  
+- 📈 Tecnologia + negócios + marketing digital  
+- ⚡ Evoluindo constantemente em sistemas escaláveis  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- JavaScript
+- React
+- Tailwind CSS
+- Python
+- Flask
+- HTML & CSS
+- Automação de processos
+- Integrações e bots
+
+---
+
+## 🚀 O que eu desenvolvo
+
+- 🔹 Sites profissionais para empresas  
+- 🔹 Landing pages de alta conversão  
+- 🔹 Sistemas web personalizados  
+- 🔹 Automação de atendimento (WhatsApp)  
+- 🔹 Painéis administrativos  
+- 🔹 Soluções para negócios em crescimento  
+
+---
+
+## 📂 Projetos em destaque
+
+### 🌊 Agência Oceans  
+Plataforma moderna para recrutamento e gestão de streamers, com foco em conversão e experiência do usuário.  
+🔗 https://agencia-oceans.vercel.app/
+
+---
+
+### 🚗 JMS Veículos  
+Website automotivo com apresentação de veículos e estrutura voltada para geração de leads.  
+🔗 https://jms-veiculos.vercel.app/
+
+---
+
+### 🏎️ B1 Motors  
+Sistema completo com gerenciamento de estoque e site institucional integrado.  
+🔗 https://www.b1motors.com.br
+
+---
+
+### 🎨 Larissartes 3D  
+Landing page moderna para divulgação de produtos artesanais em impressão 3D.  
+🔗 https://larissartes-3d.vercel.app/
+
+---
+
+## 📬 Contato
+
+Se você quer um site ou sistema para seu negócio:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adler-neves-aa991a181/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5511957767799" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://instagram.com/adi.neves" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/adler-neves-aa991a181/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5511957767799">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/adi.neves">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 💡 Visão
+
+Criar sistemas e soluções digitais que **não só funcionam**, mas ajudam empresas a crescer de verdade.
